@@ -1,6 +1,5 @@
 *{
 	box-sizing: border-box;
-	text-align: center;
 }
 
 .container{
@@ -21,24 +20,16 @@
 	background-color: orange;
 	border:1px solid #000;
 }
-
-.col-1{
+.col {
 	position: relative;
 	min-height: 1px;
 	float: left;
 	padding: 0 20px;	
 }
-.col-2
-{
-	position: relative;
-	min-height: 1px;
-	float: left;
-	padding: 0 20px;
-}
+
 
 .col-1{
-width: 8.333%;
-
+	width: 8.333%;
 }
 .col-2{
 	width: 	16.666%;
